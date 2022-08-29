@@ -22,3 +22,16 @@ elif(b>0):
     print("positive.")
 else:
     print("negative.")
+"""
+OUTPUT:
+
+python3 exp1.py 2 5
+before swapping
+a=2 b=5
+after swapping
+a=5 b=2
+now checking whether a is postive, negative or zero.
+positive.
+now checking whether b is postive, negative or zero.
+positive.
+"""
